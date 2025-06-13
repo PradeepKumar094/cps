@@ -1,3 +1,4 @@
+// Created by : @Nabarupa Banik
 import React from 'react';
 import { Topic, AIRecommendation } from '../types';
 import { TopicCard } from './TopicCard';

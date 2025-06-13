@@ -1,3 +1,4 @@
+// Created by : @Pentapati V V Satya Pavan Sandeep
 import React from 'react';
 import { User } from '../types';
 import { Award, Calendar, Target, Zap, TrendingUp } from 'lucide-react';
